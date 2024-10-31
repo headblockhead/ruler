@@ -1,5 +1,5 @@
 # Ruler
-A circuitboard ruler. This is designed by me, for me, so it has some details you may want to change if you are making your own version - like my public SSH key and name.
+A circuitboard ruler. I designed it for myself, so it has some details you may want to change if you are making your own version - like my public SSH key and name.
 
 Looks best when manufactured with black soldermask and with an ENIG surface finish for gold plated copper pads. (Also important as a *lead* ruler is not the best thing to be handling often and ENIG is RoHS compliant.)
 
