@@ -8,7 +8,3 @@ Looks best when manufactured with black soldermask and with an ENIG surface fini
 
 ## Back:
 ![ruler_2](https://github.com/headblockhead/ruler/assets/26520767/62a72ee1-be22-46bd-b3d6-996ea3c2e1e1)
-
-## Ordering notes
-
-The top and bottom edges of the ruler have traces that run over the board outline. It may be a good idea leave an order note specifying that they should be left to be cut, and not to expand the board outline or delete the trace.
